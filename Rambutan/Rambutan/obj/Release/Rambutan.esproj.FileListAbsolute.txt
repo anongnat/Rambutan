@@ -1,0 +1,2 @@
+C:\Rambutan\Rambutan\Rambutan\obj\Release\Rambutan.esproj.SuggestedBindingRedirects.cache
+C:\Rambutan\Rambutan\Rambutan\obj\Release\Rambutan.esproj.CoreCompileInputs.cache
